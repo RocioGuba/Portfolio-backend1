@@ -8,10 +8,12 @@ com\example\demo\Controller\CExperiencia.class
 com\example\demo\Controller\CEducacion.class
 com\example\demo\Security\Entity\Usuario.class
 com\example\demo\Interface\IPersonaService.class
+com\example\demo\RocioApplication$1.class
 com\example\demo\Security\jwt\JwtProvider.class
 com\example\demo\Security\Dto\NuevoUsuario.class
 com\example\demo\Repository\REducacion.class
 com\example\demo\Security\Controller\AuthController.class
+com\example\demo\Dto\dtoPersona.class
 com\example\demo\Security\Repository\iUsuarioRepository.class
 com\example\demo\Security\MainSecurity.class
 com\example\demo\Dto\dtoHys.class
